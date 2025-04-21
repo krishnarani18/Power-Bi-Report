@@ -3,6 +3,7 @@ Introduction to Power BI
 Power BI is a Data Visualization and Business Intelligence tool that converts data from different data sources to interactive dashboards and BI reports. Power BI suite provides multiple software, connector, and services - Power BI desktop, Power BI service based on Saas, and mobile Power BI apps available for different platforms. 
 
 Power BI Desktop
+
 Dynamic reports and data models may be made with Power BI Desktop. Power BI is available in both 32-bit and 64-bit versions. It is free to download and not reliant on Microsoft Office. It is enriched with extensive visuals, built-in DAX functions, and numerous libraries. To download the latest version, you can use the following link: " https://powerbi.microsoft.com/en-us/downloads/ "
 
 Power BI Desktop can handle multiple tasks, such as −
