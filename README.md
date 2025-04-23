@@ -64,3 +64,93 @@ Model View
 You can view the relationship between tables, measures, and columns. The simple data model is understandable and easily refreshed by the users. On the other hand, the complex data model is difficult to construct and generalize. It would be recommended to develop the more complicated relationships using the Power query editor to filter the data and reshape the existing model.
 
 
+DAX Introduction
+
+DAX (Data Analysis Expressions) is a formula expression language and can be used in different BI and visualization tools. DAX is also known as function language, where the full code is kept inside a function. DAX programming formula contains two data types: Numeric and Other. Numeric includes - integers, currency, and decimals, while Other includes: string and binary objects.
+
+DAX function can also include other functions, conditional statements, and value references.
+
+DAX Functions
+
+In Power BI, you can use different function types to analyze data and create new columns and measures. It includes functions from different categories such as −
+
+Aggregate
+Text
+Date
+Logical
+Counting
+Information
+
+Power BI provides an easy way to see the list of all functions. When you start typing your function in the formula bar, you can see the list of all functions starting with that alphabet.
+
+DAX Aggregate Functions
+
+DAX has several aggregate functions, such as −
+
+MIN
+MINA
+MINX
+MAX
+MAXA
+SUM
+SUMX
+PRODUCT
+PRODUCTX
+
+DAX TEXT Functions
+
+
+LEFT
+RIGHT
+UPPER
+LOWER
+CONCATENATE
+CONCATENATEX
+
+DAX DATE Functions
+
+DATE
+DATEDIFF
+DATEVALUE
+CALENDER
+YEAR
+YEARFRAC
+HOUR
+WEEKDAY
+
+DAX Logical Functions
+
+AND
+OR
+NOT
+IF
+SWITCH
+TRUE
+FALSE
+
+DAX Counting Functions
+
+DISTINCTCOUNT
+COUNT
+COUNTA
+COUNTROWS
+COUNTBLANK
+
+DAX INFORMATION Functions
+
+CONTAINS
+CONTAINSSTRING
+CONTAINSROW
+COLUMNSTATISTICS
+CONTAINSSTRINGEXACT
+
+DAX Calculation Types
+
+In Power BI, you can create two primary calculations using DAX −
+
+Calculated columns
+Calculated measures
+
+When you navigate to the Modeling tab, you can see a New Column option at the top of the screen. This also opens the formula bar where you can enter DAX formula to perform the calculation. DAX - Data Analysis Expression is a powerful language used in Excel to perform calculations. You can also rename the column by changing the Column text in the formula bar.
+
+
